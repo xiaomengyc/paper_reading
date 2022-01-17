@@ -18,3 +18,6 @@
 
 8 Classification-Reconstruction Learning for Open-Set Recognition
 
+9 Enhancing The Reliability of out-of-distribution image detection in Neural Networks
+
+10 Generalized ODIN：Detecting Out-of-distribution Image without Learning from Out-of-distribution Data
