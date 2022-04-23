@@ -2,9 +2,9 @@
 
 |      |                            Title                             | Venue |                             PDF                              | CODE     |
 | :-----|:-----:|:---:|:----:| ------|
-| 1    |                Towards open set deep networks                |   -   | [PDF](paper/1_Towards_open_set_deep_networks.pdf) | [CODE](https://github.com/abhijitbendale/OSDN) |
-| 2    |             Steps toward Open World Recognition              |   -   |    [PDF](paper/2_Steps_toward_Open_World_Recognition.pdf)    | - |
-| 3    | Meta-Recognition: The Theory and Practice of Recognition Score Analysis |   -   | [PDF](paper/3_Meta-Recognition_The_Theory_and_Practice_of_Recogn.pdf) | -        |
+| 1    |                Towards open set deep networks                |   -   | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf) | [CODE](https://github.com/abhijitbendale/OSDN) |
+| 2    |             Steps toward Open World Recognition              |   -   |    [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)    | - |
+| 3    | Meta-Recognition: The Theory and Practice of Recognition Score Analysis |   -   | [PDF](paper/https://apps.dtic.mil/sti/pdfs/ADA534235.pdf) | -        |
 | 4    | Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations |   -   |             [PDF](paper/4 Michieli_2021_SDR.pdf)             | [CODE](https://github.com/LTTM/SDR) |
 | 5    |                            ResNet                            |   -   |                  [PDF](paper/5_ResNet.pdf)       | -        |
 | 6    |                           DeepLab                            |   -   |                  [PDF](paper/6_DeepLab.pdf)                  | -        |
