@@ -26,4 +26,42 @@
 | 22 | Open Set Learning with Counterfactual Images | - | [PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Lawrence_Neal_Open_Set_Learning_ECCV_2018_paper.pdf) |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
+| Contrastive Out-of-Distribution Detection for Pretrained Transformers | EMNLP2021  | |
+| [NerIPS2021] ReAct: Out-of-distribution Detection with Rectified Activations| |
+| [NerIPS2020]  Energy-based Out-of-distribution Detection |
+| [NerIPS18]  Reducing Network Agnostophobia |
+| [NerIPS18] CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | |
+| Energy-based Out-of-distribution Detection for Multi-label Classification |
+| [CVPR18] Adversarially Learned One-Class Classifier for Novelty Detection |
+| [CVPR20] Generalized ODIN: Detecting Out-of-Distribution Image without Learning from Out-of-distribution Data|
+| [CVPR20]  Hierarchical Novelty Detection for Visual Object Recognition |
+| [CVPR21] Learning Deep Classifiers Consistent with Fine-Grained Novelty Detection | |
+| [WACV] Metric Learning for Novelty and Anomaly Detection | |
+| [CVPR19] C2AE: Class Conditioned Auto-Encoder for Open-set Recognition | |
+| [NerIPS2018] A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks |
+| [ICLR2019] Deep Anomaly Detection With Outlier Exposure |
+| [ICLR2019] Enhancing the Reliability of Out-of-Distribution Image Detection In Neural Networks | |
+| [ICLR21] SSD: A UNIFIED FRAMEWORK FOR SELFSUPERVISED OUTLIER DETECTION | |
+| [ICLR22] Meta Discovery: Learning to Discover Novel Classes given Very Limited Data | |
+| [ICLR22] OPEN-SET RECOGNITION: A GOOD CLOSED-SET CLASSIFIER IS ALL YOU NEED | |
+| Multi-class Novelty Detection  Using Mix-up Technique | |
+| Adversarially Robust One-class Novelty Detection |
+| [ECCV18] Open-Set Learning with Counterfactual Images | |
+| [ECCV20] Hybrid Models for Open Set Recognition | |
+| [AAAI21] Open-Set Recognition with Gaussian Mixture Variational Autoencoders | |
+| Contrastive Training for Improved Out-of-Distribution Detection | |
+| Uniformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings | |
+| Multiple Class Novelty Detection Under Data Distribution Shift | |
+| Classification-Reconstruction Learning for Open-Set Recognition | |
+| Generalized Out-of-Distribution Detection: A Survey | |
+| A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges | |
+| Are Out-of-Distribution Detection Methods Effective on Large-Scale Datasets? | |
+| A SIMPLE AND EFFECTIVE BASELINE FOR OUT-OFDISTRIBUTION DETECTION USING AN ABSTENTION CLASS | |
+| LEARNING OUT-OF-DISTRIBUTION DETECTION WITHOUT OUT-OF-DISTRIBUTION DATA | |
+| ViM: Out-Of-Distribution with Virtual-logit Matching | |
+| Revisiting the Evaluation of Uncertainty Estimation and Its Application to Explore Model Complexity-Uncertainty Trade-Off | |
+| Few-shot Open-set Recognition by Transformation Consistency | |
+| Class Anchor Clustering: A Loss for Distance-based Open Set Recognition | |
+| Deep Transfer Learning for Multiple Class Novelty Detection | |
+| Improving Deep Network Robustness to Unknown Inputs with Objectosphere | |
 
